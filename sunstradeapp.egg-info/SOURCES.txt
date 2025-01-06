@@ -1,0 +1,6 @@
+setup.py
+src/__init__.py
+sunstradeapp.egg-info/PKG-INFO
+sunstradeapp.egg-info/SOURCES.txt
+sunstradeapp.egg-info/dependency_links.txt
+sunstradeapp.egg-info/top_level.txt
